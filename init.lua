@@ -47,7 +47,7 @@ minetest.register_tool("nyancats_plus:rainbow_axe", {
 	},
 })
 minetest.register_tool("nyancats_plus:rainbow_sword", {
-	description = "Diamond Sword",
+	description = "Rainbow Sword",
 	inventory_image = "rainbow_sword.png",
 	tool_capabilities = {
 		full_punch_interval = 0.6,
